@@ -4,7 +4,7 @@
 
 package funkin;
 
-import flixel.FlxShader;
+import flixel.system.FlxAssets.FlxShader;
 
 class GlitchVFX extends FlxShader
 {
