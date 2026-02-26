@@ -1,2 +1,2 @@
 # MyHXScripts
-My HaxeFlixel scripts created as FNF mods.
+My HaxeFlixel scripts created for FNF mods.
